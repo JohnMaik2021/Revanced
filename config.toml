@@ -13,7 +13,7 @@ build-mode = "both"
 excluded-patches = ""                                                 
 included-patches = "" 
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rvx.noname.exe' "
-version = "auto"                                                      
+version = "latest"                                                      
 exclusive-patches = false                                             
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "yt-rvx"
