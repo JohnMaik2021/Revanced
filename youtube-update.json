@@ -1,6 +1,6 @@
 {
-  "version": "v20.38.37 (patches 5.11.1)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/JohnMaik2021/Revanced/releases/download/4/youtube-revanced-extended-magisk-v20.38.37-all.zip",
+  "version": "v20.39.37 (patches 5.12.1)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/JohnMaik2021/Revanced/releases/download/5/youtube-revanced-extended-magisk-v20.39.37-all.zip",
   "changelog": "https://raw.githubusercontent.com/JohnMaik2021/Revanced/update/build.md"
 }
